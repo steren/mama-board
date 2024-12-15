@@ -1,0 +1,27 @@
+{
+  "short_name": "Mama",
+  "name": "Mama-board",
+  "icons": [
+    {
+      "src": "icon-maskable-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-transparent-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-transparent.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#6200ee",
+  "background_color": "#b4f0fb"
+}
