@@ -3,8 +3,13 @@ const cacheName = 'sounds-' + cacheVersion;
 
 var urlsToCache = [
   "/",
+  "sounds/daddy.m4a",
+  "sounds/adada.m4a",
+  "sounds/happy.m4a",
+  "sounds/all done.m4a",
   "sounds/cocotte.m4a",
   "sounds/écureuil.m4a",
+  "sounds/tortue.m4a",
   "sounds/encore.m4a",
   "sounds/iaiao.m4a",
   "sounds/maman.m4a",
