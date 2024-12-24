@@ -3,7 +3,7 @@
   "name": "Mama-board",
   "icons": [
     {
-      "src": "icon-maskable-512.jpg",
+      "src": "icon-transparent-512.jpg",
       "type": "image/jpeg",
       "sizes": "512x512",
       "purpose": "maskable"
