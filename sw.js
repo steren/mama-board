@@ -1,4 +1,4 @@
-const cacheVersion = 'v2';
+const cacheVersion = 'v3';
 const cacheName = 'sounds-' + cacheVersion;
 
 var urlsToCache = [
